@@ -1,0 +1,1 @@
+This plugin will be called "Fred's RBWave"

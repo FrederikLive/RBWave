@@ -1,0 +1,16 @@
+{
+  "name": "spectrawave",
+  "version": "1.0.0",
+  "description": "Rekordbox-style Multicolor Waveform for Ableton Live",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ableton",
+    "max-for-live",
+    "waveform"
+  ],
+  "author": "Frederik",
+  "license": "MIT"
+}
